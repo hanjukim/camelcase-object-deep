@@ -47,5 +47,4 @@ Type: `Object` `Object[]`
 Object or array of objects to camelCase.
 
 ## License
-
-Apache 2.0 ©
+Source files are distributed under the Apache Version 2.0 license found in the LICENSE file.

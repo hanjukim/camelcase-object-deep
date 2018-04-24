@@ -1,0 +1,42 @@
+{
+  "name": "camelcase-object-deep",
+  "version": "1.0.0",
+  "description": "Convert object keys recursivly to camelCase using lodash",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanjukim/camelcase-object-deep.git"
+  },
+  "keywords": [
+    "obj",
+    "object",
+    "key",
+    "keys",
+    "camelcase",
+    "camel-case",
+    "camel",
+    "lodash",
+    "recurse",
+    "recursive",
+    "deep"
+  ],
+  "author": {
+    "name": "Hanju Kim",
+    "email": "hanjukim@gmail.com"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hanjukim/camelcase-object-deep/issues"
+  },
+  "homepage": "https://github.com/hanjukim/camelcase-object-deep#readme",
+  "peerDependencies": {
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "lodash": "^4.17.5"
+  }
+}

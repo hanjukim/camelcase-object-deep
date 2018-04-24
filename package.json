@@ -1,6 +1,6 @@
 {
   "name": "camelcase-object-deep",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Convert object keys recursivly to camelCase using lodash",
   "main": "lib/index.js",
   "scripts": {

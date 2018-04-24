@@ -1,5 +1,5 @@
 const test = require('ava');
-const fn = require('.');
+const fn = require('./src');
 
 test(t => {
   t.deepEqual(

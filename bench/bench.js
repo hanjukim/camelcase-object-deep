@@ -5,7 +5,7 @@ const Benchmark = require('benchmark');
 const camelcaseKeys = require('camelcase-keys');
 const camelcaseObjectDeepNpm = require('camelcase-object-deep');
 const camelcaseObjectDeep = require('../src');
-const fixture = require('./fixture');
+const fixture = require('./fixture2');
 
 const suite = new Benchmark.Suite('camelcaseObjectDeep', { minTime: 1000 });
 

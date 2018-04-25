@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "benchmark": "*",
+    "camelcase-keys": "*",
+    "camelcase-object-deep": "*"
+  }
+}

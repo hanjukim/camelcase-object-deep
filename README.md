@@ -1,15 +1,14 @@
-# camelcase-object-deep
+camelcase-object-deep
+=====
+[![NPM](https://nodei.co/npm/camelcase-object-deep.png)](https://nodei.co/npm/camelcase-object-deep/)
 > Convert object keys recursivly to camelCase using lodash
 
 ## Install
-
-```
+```bash
 $ yarn add camelcase-object-deep
 ```
 
-
 ## Usage
-
 ```js
 const camelcaseObjectDeep = require('camelcase-object-deep');
 
@@ -35,13 +34,10 @@ camelcaseObjectDeep(argv);
 //=> {_: [], fooBar: true}
 ```
 
-
 ## API
 
 ### camelcaseObjectDeep(input)
-
 #### input
-
 Type: `Object` `Object[]`
 
 Object or array of objects to camelCase.

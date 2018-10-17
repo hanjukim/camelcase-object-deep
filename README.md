@@ -5,7 +5,7 @@ camelcase-object-deep
 
 ## Install
 ```bash
-$ yarn add camelcase-object-deep
+$ npm install camelcase-object-deep
 ```
 
 ## Usage

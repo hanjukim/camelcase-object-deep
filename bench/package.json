@@ -1,7 +1,10 @@
 {
+  "scripts": {
+    "start": "node bench.js"
+  },
   "devDependencies": {
-    "benchmark": "*",
-    "camelcase-keys": "*",
-    "camelcase-object-deep": "*"
+    "benchmark": "^2.1.4",
+    "camelcase-keys": "^5.0.0",
+    "camelcase-object-deep": "^1.0.7"
   }
 }

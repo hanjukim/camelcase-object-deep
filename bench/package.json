@@ -4,7 +4,7 @@
   },
   "devDependencies": {
     "benchmark": "^2.1.4",
-    "camelcase-keys": "^5.0.0",
-    "camelcase-object-deep": "^1.0.7"
+    "camelcase-keys": "^5.2.0",
+    "camelcase-object-deep": "^1.0.9"
   }
 }

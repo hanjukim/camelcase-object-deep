@@ -5,7 +5,7 @@ const camelcaseObjectDeep = value => {
     return value.map(camelcaseObjectDeep);
   }
 
-  if (value && typeof value === 'object') {
+  if (value && typeof value === 'object' && value.constructor === Object) {
     const obj = {};
     const keys = Object.keys(value);
     const len = keys.length;

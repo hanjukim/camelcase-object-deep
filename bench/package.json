@@ -4,7 +4,10 @@
   },
   "devDependencies": {
     "benchmark": "^2.1.4",
-    "camelcase-keys": "^5.2.0",
+    "camelcase-keys": "^6",
     "camelcase-object-deep": "^1.0.9"
+  },
+  "dependencies": {
+    "lodash": "^4.17.14"
   }
 }

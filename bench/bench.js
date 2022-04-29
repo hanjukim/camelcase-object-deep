@@ -13,7 +13,7 @@ suite.add('camelcaseKeys', () => {
   camelcaseKeys(fixture, {deep: true});
 }).add('npm', () => {
   camelcaseObjectDeepNpm(fixture);
-}).add('master', () => {
+}).add('current', () => {
   camelcaseObjectDeep(fixture);
 }).on('cycle', function(event) {
   console.log(String(event.target));

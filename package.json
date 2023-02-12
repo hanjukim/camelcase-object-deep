@@ -41,7 +41,7 @@
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
-    "ava": "^3",
+    "ava": "^5",
     "lodash": "^4.17.11"
   }
 }
